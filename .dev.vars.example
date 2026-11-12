@@ -1,0 +1,6 @@
+# Copy to .dev.vars for local testing (wrangler pages dev). NEVER commit .dev.vars.
+SUPABASE_URL=https://YOUR-PROJECT.supabase.co
+SUPABASE_ANON_KEY=your-publishable-key
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+KORAPAY_SECRET_KEY=sk_test_xxxxxxxx
+COMMISSION_RATE=0.05
